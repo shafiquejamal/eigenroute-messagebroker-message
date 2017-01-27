@@ -6,6 +6,4 @@ trait MessageBrokerMessage {
 
   def messageType: MessageBrokerMessageType
 
-  def toJson: JsValue
-
 }

@@ -6,4 +6,6 @@ trait MessageBrokerMessageType {
 
   def toMessageBrokerMessage(msg: JsValue): Option[MessageBrokerMessage]
 
+  def description:String
+
 }

@@ -1,6 +1,6 @@
 name := """eigenroute-messagebroker-message"""
 
-version := "0.0.3"
+version := "0.0.4"
 organization := "com.eigenroute"
 
 scalaVersion := "2.11.7"
